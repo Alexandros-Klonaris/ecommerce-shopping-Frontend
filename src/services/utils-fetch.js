@@ -1,6 +1,6 @@
 const utils = () => {
 
-    const URL = "https://crossover-shop-api-gr2.onrender.com";
+    const URL = "https://ecommerce-shopping.onrender.com";
 
     const getProducts = async () => {
         try {

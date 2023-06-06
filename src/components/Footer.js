@@ -15,13 +15,13 @@ const Footer = () => {
                     </a>
 
                     <p>
-                        Group2 Created this Application | &nbsp;
+                        Alexandros Created this Application | &nbsp;
                         <a
                             href=""
                             target="_blank"
                             rel="noreferrer"
                         >
-                            April 2023
+                            June 2023
                         </a>
                     </p>
                 </div>
